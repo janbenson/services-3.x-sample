@@ -6,5 +6,5 @@ package = Notes example
 dependencies[] = noteresource
 dependencies[] = rest_server
 
-core = 6.x
-php = 5.2
+core = 7.x
+php = 5.4
